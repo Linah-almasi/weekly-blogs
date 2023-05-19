@@ -1,0 +1,76 @@
+
+body {
+
+     background-image: url("images/R.png");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      .heading{
+        text-align: center;
+        text-shadow: 0cqh;
+       font-size: 20px; /* Adjust the font size */
+      font-family: Arial, sans-serif; /* Adjust the font family */
+      font-weight: bold; /* Adjust the font weight */
+      color: ; /* Adjust the text color */
+      text-align: center; /* Adjust the text alignment */
+      text-decoration: underline; /* Add text decoration */
+      line-height: 1.5; /* Adjust the li*/
+      }
+
+      .info{
+        font-family:'Times New Roman', Times, serif;
+        font-weight: light;
+        color: black;
+        text-align: left;
+        line-height-step: 1.5;
+      }
+
+      .paragraph{
+        font-weight: light;
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        text-align: left;
+        line-height-step: 1.5;
+
+
+      }
+
+      .bold{
+        font-weight: bolder;
+        text-align: left;
+      }
+
+      .blog{
+      font-family:'Times New Roman', Times, serif;
+      font-weight: light;
+      color: black;
+      text-align: left;
+      line-height-step: 1.5;
+      white-space: 1;
+    
+    }
+    .bible{
+      text-align: left;
+      text-indent: 0cqb;
+      font-weight: bold;
+      line-height-step: 1.5;
+      white-space: 1;
+     }
+     .verse{
+      text-indent: 0cqb;
+     line-height-step: 1.5;
+     font-style: oblique;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: 700;
+
+     }
+    }
+
+    
+
+    
+    
+  }
+  
+te
