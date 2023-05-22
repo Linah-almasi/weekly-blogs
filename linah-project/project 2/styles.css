@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: aqua;
 }
 
 header {
@@ -22,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: aqua;
     text-decoration: none;
 }
 
@@ -33,6 +34,8 @@ main {
 .products {
     display: flex;
     flex-wrap: wrap;
+    background-color: #333;
+    color: #fff;
 }
 
 .product {
@@ -56,7 +59,52 @@ footer {
 }
 .color{
     color: black;
+    text-align: justify;
+    background-color: aqua;
+}
+
+li {
+margin-bottom: 10px;
+}
+.header{
+background-color: aqua;
+color: black;
+
+}
+.laptops{
+display: flex;
+flex-wrap: wrap;
+background-color: #333;
+color: #fff;
+}
+.laptop {
+flex: 0 0 30%;
+padding: 10px;
+}
+
+.laptop img {
+width: 100%;
+}
+
+.laptop h3 {
+margin-top: 10px;
+}
+
+footer {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+.color{
+color: black;
+text-align: justify;
+background-color: aqua;
 }
 .ul{
-    color: black;
+color: black;
+}
+.color{
+background-color: aqua;
+color: black;
 }

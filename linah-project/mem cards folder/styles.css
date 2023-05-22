@@ -1,0 +1,56 @@
+l {
+    list-style-type: disc;
+}
+body{
+    background-color: aqua;
+    color: #333;
+}
+
+li {
+    margin-bottom: 10px;
+}
+.header{
+    background-color: aqua;
+    color: black;
+
+}
+.mems{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #333;
+    color: #fff;
+}
+.mem {
+    flex: 0 0 30%;
+    padding: 10px;
+}
+
+.mem img {
+    width: 100%;
+}
+
+.mem h3 {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.color{
+    color: black;
+    text-align: justify;
+    background-color: aqua;
+}
+.ul{
+    color: black;
+.color{
+    background-color: aqua;
+    color: black;
+}
+.trust{
+    font-weight: bolder;
+    font-size:x-large;
+}

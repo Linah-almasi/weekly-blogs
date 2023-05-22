@@ -8,7 +8,12 @@ header {
 }
 nav{
     background-color: black;
-    color: aqua;
+    color: #fff;
     font-weight: bolder;
 
+}
+.color{
+    background-color: black;
+    color: #fff;
+}
 }
