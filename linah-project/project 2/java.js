@@ -1,12 +1,17 @@
-<button id="myButton">Click Me</button>
 
-<script>
-  document.getElementById("myButton").addEventListener("click", myFunction);
 
-  function myFunction() {
-    // Code to be executed when the button is clicked
-    alert("Button clicked!");
-  }
-</script>
+
+// Get the button element by its ID
+var button = document.getElementById('myButton');
+
+// Add a click event listener to the button
+button.addEventListener('click', handleClick);
+
+// Event handler function
+function handleClick() {
+  // Perform actions when the button is clicked
+  console.log('Button clicked!');
+  // You can add more code here to execute when the button is clicked
+}
 
 
